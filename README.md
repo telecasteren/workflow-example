@@ -60,7 +60,7 @@ When committing changes, this will lint and format all staged files before the f
 
 ### Tests
 
-- Find all unit tests [here](tests/units).
+- Find all unit tests [here](tests/unit).
 - Find all end-to-end (e2e) tests [here](tests/e2e).
 
 **Unit testing with Vitest:**
